@@ -12,4 +12,4 @@ which extends the abstract Vehicle class. The Car class contains the following:
 * the equals method
 * a copy method
 
-![Tow Mater](mater.jpg)
+:sunglasses:
